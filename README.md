@@ -20,7 +20,7 @@
 <h2>Clonar projeto</h2>
 
 <i>#Clonar repositório</i></br>
-  git clone <i>https://github.com/Hernandez-Rosa-Holanda/shoeslp-html-css.git</i>
+  git clone <i>https://github.com/Hernandez-Rosa-Holanda/botao-colorido.git</i>
 
 <h2>Autor</h2> 
 <p>
