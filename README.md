@@ -13,7 +13,7 @@
 <h2>Tecnologias utilizadas</h2>
 
 <ul>
-  <li>HTML5 Semântico
+  <li>HTML  
   <li>CSS
 </ul>
 
