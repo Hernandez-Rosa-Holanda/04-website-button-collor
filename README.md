@@ -3,7 +3,7 @@
 
   <h3>Botão animado</h3> 
   <p>
-   Botão desenvolvido com Css, trabalhei com variações de estado.
+   Botão desenvolvido com fins de estudo, utilizei HTML e CSS.
   </p>
 <h2>Layout</h2>
   <p>
